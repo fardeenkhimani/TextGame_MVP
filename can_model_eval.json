@@ -1,0 +1,62 @@
+[
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.8888888888888888,
+        90,
+        "wash kitchen floors"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.7777777777777778,
+        68,
+        "restock spices rack"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.7777777777777778,
+        84,
+        "dust decorative items"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.7777777777777778,
+        66,
+        "go to bathroom"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.6666666666666666,
+        89,
+        "polish bathroom mirror"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.8888888888888888,
+        83,
+        "iron shirts"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.7777777777777778,
+        77,
+        "refresh room scent"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.6666666666666666,
+        89,
+        "replace bed linens"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.6666666666666666,
+        88,
+        "organize laundry supplies"
+    ],
+    [
+        "Failure. Executed all candidate tasks but did not complete all needed tasks",
+        0.7777777777777778,
+        100,
+        "make rich curry"
+    ]
+]
